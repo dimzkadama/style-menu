@@ -3,7 +3,7 @@
 	height: 27px;
 	margin: 0;
 	padding: 0;
-	background: #000000 url(images/bg-bubplastic.gif) top left repeat-x;
+	background: #000000 url("http://lh5.googleusercontent.com/-fXVCigDr2Nk/UW-Y6-GyQfI/AAAAAAAAAhQ/d-hY9Uf4N_w/w762-h410-p-o/bg-bubplastic.gif") top left repeat-x;
 }
 #cssmenu ul {
 	list-style: none;
@@ -14,7 +14,7 @@
 	float: left;
 	margin: 0;
 	padding: 0;
-	background: transparent url(images/bg-bubplastic-button.gif) top left no-repeat;
+	background: transparent url("http://lh6.googleusercontent.com/-r6JZA6zH1ok/UW-aFrtsxnI/AAAAAAAAAhY/3cDpoIJbhmg/w839-h239-p-o/bg-bubplastic-button.gif") top left no-repeat;
 }
 
 #cssmenu ul li a {
@@ -35,17 +35,19 @@
 	height: 22px;
 	padding-top: 5px;
 	padding-right: 35px;
-	background: transparent url(images/bg-bubplastic-button.gif) top right no-repeat;
+	background: transparent url("http://lh6.googleusercontent.com/-r6JZA6zH1ok/UW-aFrtsxnI/AAAAAAAAAhY/3cDpoIJbhmg/w839-h239-p-o/bg-bubplastic-button.gif") top right no-repeat;
 	cursor: pointer;
 }
 
 
 #cssmenu ul li a:hover,
 #cssmenu ul li.active a {
-	background: transparent url(images/bg-bubplastic-h-blue.gif) top left no-repeat;
+	background: transparent url("
+https://lh4.googleusercontent.com/-W2n0f_ehpCY/UW-aIc7LPdI/AAAAAAAAAhg/M3gEW9iaRqA/w839-h239-p-o/bg-bubplastic-h-blue.gif") top left no-repeat;
 }
 #cssmenu ul li a:hover span,
 #cssmenu ul li.active a span {
-	background: transparent url(images/bg-bubplastic-h-blue.gif) top right no-repeat;
+	background: transparent url("
+https://lh4.googleusercontent.com/-W2n0f_ehpCY/UW-aIc7LPdI/AAAAAAAAAhg/M3gEW9iaRqA/w839-h239-p-o/bg-bubplastic-h-blue.gif") top right no-repeat;
 }
 
